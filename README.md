@@ -1,2 +1,2 @@
 # Transacton-System
-Developing a full stack web application for a complete online shopping system. HTML, CSS, and Javascript as the Frontend NodeJS and MongoDB, REST APIs as the backend
+Developing a backend specific transaction system utlizing NodeJS and MongoDB, REST APIs for leverage.
